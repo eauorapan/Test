@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_x="158dp"
         android:layout_y="36dp"
-        android:text="Android"
+        android:text="Activity"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -24,21 +24,9 @@
         android:layout_height="wrap_content"
         android:layout_x="139dp"
         android:layout_y="126dp"
-        android:text="Button"
+        android:text="Start Activity"
         tools:layout_editor_absoluteX="162dp"
         tools:layout_editor_absoluteY="130dp" />
-
-    <EditText
-        android:id="@+id/editText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_x="73dp"
-        android:layout_y="224dp"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Name"
-        tools:layout_editor_absoluteX="96dp"
-        tools:layout_editor_absoluteY="241dp" />
 
 </AbsoluteLayout>
 
